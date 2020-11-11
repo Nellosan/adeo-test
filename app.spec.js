@@ -1,5 +1,4 @@
 const app = require("./app");
-const data = require("./data");
 const dataTest = require("./data").data;
 
 // -------------------------------------------------------------
