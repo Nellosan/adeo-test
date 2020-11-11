@@ -4,5 +4,11 @@
   "main": "app.js",
   "repository": "git@github.com:Nellosan/adeo-test.git",
   "author": "Paul Foulont <pafoulont@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  },
+  "scripts": {
+    "test": "jest"
+  }
 }
