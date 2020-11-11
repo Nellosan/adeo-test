@@ -1,0 +1,8 @@
+{
+  "name": "adeo-test",
+  "version": "1.0.0",
+  "main": "app.js",
+  "repository": "git@github.com:Nellosan/adeo-test.git",
+  "author": "Paul Foulont <pafoulont@gmail.com>",
+  "license": "MIT"
+}
